@@ -44,7 +44,7 @@ img {
     align-items: center;
 }
 
-/* HEADER */
+/*  HEADER  */
 .header {
     padding-bottom: 843px;
     padding-top: 64px;
@@ -195,7 +195,7 @@ img {
     margin-bottom: 25px;
 }
 
-/* MAN */
+/*  MAN  */
 .man {
     display: block;
     margin: 0 auto;
@@ -261,7 +261,7 @@ img {
     background-image: url('./../img/icons/arrow-down.svg');
 }
 
-/* ARTICLE */
+/*  ARTICLE  */
 .article {
     margin-bottom: 200px;
     display: flex;
@@ -354,7 +354,7 @@ img {
 }
 
 
-/* FOOTER */
+/*  FOOTER  */
 .footer {
     padding-bottom: 120px;
 }
